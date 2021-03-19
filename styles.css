@@ -1,0 +1,91 @@
+p{
+
+  background-color: black;
+  background: black;
+  color:white;
+ }
+div{
+     background-color: black;
+  background: black;
+  color:white;
+
+}
+head{
+     background-color: black;
+  background: black;
+  color:white;
+  text-align: center;
+width:800px;
+height:500px;
+
+}
+html{
+     background-color: black;
+  background: black;
+  color:white;
+  display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+font-family:  Lucida Sans Typewriter;
+
+}
+#id{
+ background-image: url("bm.webp");
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;  
+}
+
+#handle{
+  
+color: grey;
+font-family:  Lucida Sans Typewriter;
+text-align: center;
+ display: block;
+   
+position: relative;
+top:5px;
+left:500px;
+}
+#area{
+
+display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+font-family:  Lucida Sans Typewriter;
+text-align: center;
+width:500px;
+height:300px;
+}
+#button1{
+font-family:  Lucida Sans Typewriter;
+text-align: center;
+display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#demo{
+ margin-left: auto;
+    margin-right: auto;
+font-family:  Lucida Sans Typewriter;
+text-align: center;
+position: relative;
+  top: 100px;
+  right: 100;
+}
